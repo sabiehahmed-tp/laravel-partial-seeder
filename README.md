@@ -11,7 +11,7 @@ This packages extends the seeding functionality with the addition of history con
 # Installation
 Install this package with the following command:
 ```
-composer require devmcc/laravel-partial-seeder
+composer require 10pearls/laravel-partial-seeder
 ```
 
 
