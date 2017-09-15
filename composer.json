@@ -1,5 +1,5 @@
 {
-    "name": "devmcc/laravel-partial-seeder",
+    "name": "10pearls/laravel-partial-seeder",
     "description": "Only seed what you haven't seeded yet.",
     "keywords": [
         "laravel",
@@ -9,15 +9,16 @@
         "database",
         "history",
         "partial seeder",
-        "laravel partial seeder"
+        "laravel partial seeder",
+        "10pearls"
     ],
     "license": "MIT License",
     "type": "library",
     "version": "1.0.0",
     "authors": [
         {
-            "name": "DevMcC",
-            "email": "sinbox.c@gmail.com"
+            "name": "10pearls",
+            "email": "sabieh.ahmed@tenpearls.com"
         }
     ],
     "require": {},
