@@ -52,7 +52,7 @@ class StatusPartialSeederCommand extends Command
      *
      * @return void
      */
-    public function fire()
+    public function handle()
     {
         $files = $this->getPartialSeedsFiles();
 
@@ -73,6 +73,7 @@ class StatusPartialSeederCommand extends Command
     }
 
     /**
+    *
      * @author DevMcC <sinbox.c@gmail.com>
      *
      * @param  string $fileName
